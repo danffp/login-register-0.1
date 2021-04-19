@@ -6,3 +6,7 @@ I've been reading content, articles and videos in self-taught ways.
         <img src="assets/images/demo.gif"
         alt="demo-register-end-login">
 </div>
+
+## 🚀 Tecnologies used
+- HTML
+- CSS
