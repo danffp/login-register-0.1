@@ -3,7 +3,7 @@ Interface developed in a self-taught way. Putting a little of my studies on HTML
 I've been reading content, articles and videos in self-taught ways.
 
 <div align="center">
-        <img src="assets/images/demo.gif"
+        <img src="assets/images/demogif.gif"
         alt="demo-register-end-login">
 </div>
 
