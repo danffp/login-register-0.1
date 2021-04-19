@@ -7,6 +7,6 @@ I've been reading content, articles and videos in self-taught ways.
         alt="demo-register-end-login">
 </div>
 
-## 🚀 Tecnologies used
+### 🚀 Tecnologies used
 - HTML
 - CSS
